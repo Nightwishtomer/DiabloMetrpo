@@ -1,0 +1,1 @@
+// src/game/prefabs/barrel_prefab.rs

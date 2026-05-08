@@ -1,0 +1,1 @@
+// src/game/prefabs/dungeon/room.rs

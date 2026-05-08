@@ -1,0 +1,1 @@
+// src/game/prefabs/entities/item_entity.rs

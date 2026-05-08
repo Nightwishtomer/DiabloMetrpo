@@ -1,0 +1,1 @@
+// src/game/prefabs/zombie_prefab.rs

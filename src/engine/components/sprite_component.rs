@@ -1,0 +1,1 @@
+// src/engine/components/sprite_component.rs

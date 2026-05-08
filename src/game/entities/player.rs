@@ -1,0 +1,1 @@
+// src/game/prefabs/entities/player.rs

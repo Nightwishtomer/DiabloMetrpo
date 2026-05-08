@@ -1,0 +1,1 @@
+// src/game/prefabs/item_prefab.rs

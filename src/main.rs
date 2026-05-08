@@ -1,5 +1,5 @@
 // src/main.rs
-
+//
 // Подключаем модуль движка (engine)
 // Здесь лежит весь runtime: loop, platform, renderer, ECS и т.д.
 mod engine;
